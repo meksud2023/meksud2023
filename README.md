@@ -1,32 +1,40 @@
-## Hi there 👋 I'm Meksud
-I'm a Computer Science student at UMD, College Park with a passion for programming and mathematics. I love building tools that solve real-world problems and exploring the intersection of logic and code.
+# ## 👨‍💻 Meksud | Computer Science @ UMD
 
-🔭 What I’m Working On
-Harvard CS50: Currently building my final project for the CS50 Introduction to Computer Science course.
+Building tools at the intersection of logic and software. Currently pursuing my BS in Computer Science at the **University of Maryland, College Park** and refining my fundamentals through **Harvard's CS50**.
 
-Full-Stack Development: Expanding my skills in JavaScript, Node.js, and database management.
+---
 
-🌱 Recent Projects
-Vocabulary Helper App A web application designed to help users learn new words by analyzing text in real-time.
+### 🚀 Featured Project
 
-Features: Extracts individual words from any pasted paragraph and fetches definitions, synonyms, and antonyms for selected terms.
+#### **[Vocabulary Helper App](https://vocab-helper-app.onrender.com)** *A Full-stack tool for language learners to bridge the gap between reading and retention.*
 
-Tech Stack: Node.js, Express, MongoDB (Mongoose), and CSS.
+* **The Problem:** Reading academic paragraphs often involves stopping to look up multiple words, breaking the flow of learning.
+* **The Solution:** Users paste text; the app extracts unique tokens and fetches definitions, synonyms, and antonyms in a single dashboard.
+* **Tech:** Node.js, Express, MongoDB,, and CSS3.
+* **Live Link:** [View Deployed App](https://vocab-helper-app.onrender.com)  
+    *⚠️ Note: Hosted on a free tier. Please allow ~30s for the server to "spin up" on the first visit.*
+* **Walkthrough:** [Watch the Video Demo](https://www.youtube.com/watch?v=GOCqI7JDDN8)
 
-Deployment: Live on Render.
+---
 
-Demo: Watch the Video Walkthrough
+### 🛠 Technical Toolkit
 
-🛠 Tech Stack & Tools
-Languages: JavaScript, Python, C
+* **Backend:** Node.js & Express
+* **Database:** MongoDB
+* **Frontend:** HTML & CSS
+* **External API:** WordsAPI (via RapidAPI)
+* **Other Tools:** Git, Pyenv, Virtualenv
 
-Backend: Node.js, Express
+---
 
-Database: MongoDB
+### 🎓 Ongoing Education & Goals
+- 🔭 **CS50 Final Project:** Currently architecting a web application focusing on [Insert specific niche, e.g., data visualization or productivity].
+- 🌱 **Skill Up:** Deepening my understanding of Data Structures and Mathematics for Computing.
 
-Tools: Git, VS Code, Pyenv, Render
-
-📫 How to reach me:
-LinkedIn: Your Name
-
-Email: [your.email@example.com]
+### 📬 Connect with me
+- **LinkedIn:** [www.linkedin.com/in/meksud-buser-25034b369](www.linkedin.com/in/meksud-buser-25034b369)
+- **Email:** [meksudbuser@gmail.com]
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meksud2023&show_icons=true&theme=radical" alt="Meksud's GitHub Stats" />
+</p>
