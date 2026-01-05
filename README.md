@@ -31,10 +31,10 @@ Building tools at the intersection of logic and software. Currently pursuing my 
 ### 🎓 Ongoing Education & Goals
 🔭 CS50 Final Project: Architecting a dynamic personal portfolio using Python (Flask) and SQLite.
 🌱 Skill Up: Deepening my understanding of Data Structures and Mathematics for Computing to build more efficient and scalable software.
-### 📬 Connect with me
-- **LinkedIn:** [www.linkedin.com/in/meksud-buser-25034b369](www.linkedin.com/in/meksud-buser-25034b369)
-- **Email:** [meksudbuser@gmail.com]
----
+### 📬 Let's Connect!
+* 💼 **LinkedIn:** [meksud-buser-25034b369](https://www.linkedin.com/in/meksud-buser-25034b369)
+* 📧 **Email:** [meksudbuser@gmail.com](mailto:meksudbuser@gmail.com)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meksud2023&show_icons=true&theme=radical" alt="Meksud's GitHub Stats" />
 </p>
