@@ -24,7 +24,7 @@ Building tools at the intersection of logic and software. Currently pursuing my 
 | **Languages** | Python, JavaScript (ES6+), Java, OCaml, C, C++, HTML5, CSS3 |
 | **Frameworks** | **Flask**, **Django**, Node.js, Express.js, Jinja2 |
 | **Databases** | MongoDB, SQL (SQLite/PostgreSQL) |
-| **Tools & OS** | Git/GitHub, Pyenv, Virtualenv, Unix Terminal, PowerShell, CMD |
+| **Tools & OS** | GitHub, Pyenv, Virtualenv, Unix Terminal, PowerShell, CMD |
 | **IDEs & Notebooks** | VS Code, Google Colab, Jupyter Notebook |
 ---
 
