@@ -1,4 +1,4 @@
-# ## 👨‍💻 Meksud | Computer Science @ UMD
+# 👨‍💻 Meksud | Computer Science @ UMD
 
 Building tools at the intersection of logic and software. Currently pursuing my BS in Computer Science at the **University of Maryland, College Park** and refining my fundamentals through **Harvard's CS50**.
 
