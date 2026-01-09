@@ -30,7 +30,7 @@ Building tools at the intersection of logic and software. Currently pursuing my 
 
 ### 🎓 Ongoing Education & Goals
 🔭 CS50 Final Project: Architecting a dynamic personal portfolio using Python (Flask) and SQLite. 
-🌱 Skill Up: Deepening my understanding of Data Structures and Mathematics for Computing to build more efficient and scalable software.
+                                               🌱 Skill Up: Deepening my understanding of Data Structures and Mathematics for Computing to build more efficient and scalable software.
 ### 📬 Let's Connect!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/meksud-buser-25034b369)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mbuser@terpmail.umd.edu)
