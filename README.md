@@ -1,6 +1,6 @@
 # 👨‍💻 Meksud | Computer Science @ UMD
 
-Building tools at the intersection of logic and software. Currently pursuing my BS in Computer Science at the **University of Maryland, College Park** and refining my fundamentals through **Harvard's CS50**.
+I am a Computer Science student at UMD with a minor in Global Engineering Leadership. I specialize in bridging the gap between technical systems and people management, with a long-term goal of driving operational excellence in high-scale fulfillment environments.
 
 ---
 
